@@ -18,7 +18,7 @@ I'm one of the **co-founders of Zenithra**, where we focus on building modern, s
 - Android Development
 - Building real-world applications
 - Clean Architecture
-- Product development at **Zenitra**
+- Product development at **Zenithra**
 
 ---
 
