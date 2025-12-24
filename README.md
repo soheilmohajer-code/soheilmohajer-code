@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Soheil%20Mohajer&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Android+Developer;Computer+Engineering+Student;Co-Founder+at+Zenitra;Passionate+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Android+Developer;Computer+Engineering+Student;Co-Founder+at+Zenithra;Passionate+Programmer" />
 </h2>
 
 ---
@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 Hi! I'm **Soheil Mohajer**, a passionate **Android Developer** and **Computer Engineering student**.  
-I'm one of the **co-founders of Zenitra**, where we focus on building modern, scalable, and high-quality software products.
+I'm one of the **co-founders of Zenithra**, where we focus on building modern, scalable, and high-quality software products.
 
 ---
 
@@ -24,7 +24,7 @@ I'm one of the **co-founders of Zenitra**, where we focus on building modern, sc
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, Kotlin, Python, C++  
+**Languages:** Java, Kotlin, Python, C++  , Xml
 **Android:** Jetpack Compose  
 **Design:** Photoshop
 
