@@ -39,6 +39,7 @@ I'm one of the **co-founders of Zenithra**, where we focus on building modern, s
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F05033?style=for-the-badge&logo=Java&logoColor=red)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=soheilmohajer-code&show_icons=true&theme=tokyonight&hide_border=true" />
