@@ -1,17 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Soheil%20Mohajer&fontSize=42&fontColor=ffffff&animation=fadeIn)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header"/>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Android+Developer;Computer+Engineering+Student;Co-Founder+at+Zenithra;Passionate+Programmer" />
-</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Soheil+Mohajer;Android+Developer;Co-Founder+%40+Zenithra;Clean+Architecture+Enthusiast)](https://git.io/typing-svg)
 
----
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=soheilmohajer-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=soheilmohajer-code&theme=tokyonight&hide_border=true" />
+</div>
 
-## 👨‍💻 About Me
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=soheilmohajer-code&theme=tokyo-night&hide_border=true" />
+</div>
 
-Hi! I'm **Soheil Mohajer**, a passionate **Android Developer** and **Computer Engineering student**.  
+## 🧑‍💻 About Me
+
+Hi! I'm **Soheil Mohajer**, a passionate **Android Developer** and **Computer Engineering student**.
 I'm one of the **co-founders of Zenithra**, where we focus on building modern, scalable, and high-quality software products.
-
----
 
 ## 🚀 What I Do
 
@@ -20,32 +23,22 @@ I'm one of the **co-founders of Zenithra**, where we focus on building modern, s
 - Clean Architecture
 - Product development at **Zenithra**
 
----
-
 ## 🛠️ Tech Stack
 
-**Languages:** Java, Kotlin, Python, C++  , Xml
-**Android:** Jetpack Compose  
-**Design:** Photoshop
+![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+## 📫 Connect with Me
 
-## 📊 GitHub Stats
-## 🛠 Tech Stack
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soheil_mohajer)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soheil_mohajer__)
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F05033?style=for-the-badge&logo=Java&logoColor=red)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=soheilmohajer-code&color=58a6ff&style=flat" />
+</div>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=soheilmohajer-code&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheilmohajer-code&layout=compact&theme=tokyonight&hide_border=true" />
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=120&section=footer"/>
