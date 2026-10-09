@@ -25,15 +25,18 @@ Hi, I'm **Soheil Mohajer** 👋 — Computer Engineering student from Mashhad, w
 ## 🛠 Skills
 
 <p align="center">
+  <sub><b>Mobile & Game</b></sub><br />
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,dart,unity&theme=dark" />
-  <br />
+  <br /><br />
+  <sub><b>Web & Backend</b></sub><br />
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css&theme=dark" />
-  <br />
+  <br /><br />
+  <sub><b>Data & AI</b></sub><br />
   <img src="https://skillicons.dev/icons?i=sqlite,firebase,mongodb,postgres,mysql,python&theme=dark" />
-  <br />
+  <br /><br />
+  <sub><b>Tools</b></sub><br />
   <img src="https://skillicons.dev/icons?i=docker,git,c,cpp,ps,gradle&theme=dark" />
 </p>
-
 ## 📊 Stats
 
 <div align="center">
