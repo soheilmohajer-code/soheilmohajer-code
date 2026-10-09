@@ -36,28 +36,102 @@ I'm a co-founder of **[Zenithra](https://github.com/)** *(replace with your link
 
 ---
 
+<div align="center">
+
 ## 🛠 Tech Stack
 
-**Languages**
+<sub>The tools and technologies I use to bring ideas to life ✨</sub>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white)
+<br/><br/>
 
-**Android**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:58A6FF,100:0F2027&height=3&section=header" width="60%" />
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+<br/>
 
-**Tools & Design**
+### 💻 Languages
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="52" height="52" alt="Kotlin" /><br/><br/>
+      <b>Kotlin</b><br/><sub>Primary</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="52" height="52" alt="Java" /><br/><br/>
+      <b>Java</b><br/><sub>Android & OOP</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/python/4B8BBE" width="52" height="52" alt="Python" /><br/><br/>
+      <b>Python</b><br/><sub>Scripting</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/cplusplus/659AD2" width="52" height="52" alt="C++" /><br/><br/>
+      <b>C++</b><br/><sub>Algorithms</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/xml/4A9EE0" width="52" height="52" alt="XML" /><br/><br/>
+      <b>XML</b><br/><sub>UI Layouts</sub>
+    </td>
+  </tr>
+</table>
+
+### 📱 Android
+
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://cdn.simpleicons.org/android/3DDC84" width="52" height="52" alt="Android" /><br/><br/>
+      <b>Android SDK</b><br/><sub>Native Apps</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" width="52" height="52" alt="Jetpack Compose" /><br/><br/>
+      <b>Jetpack Compose</b><br/><sub>Modern UI</sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="52" height="52" alt="Android Studio" /><br/><br/>
+      <b>Android Studio</b><br/><sub>IDE</sub>
+    </td>
+  </tr>
+</table>
+
+### 🧰 Tools & Design
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="52" height="52" alt="Git" /><br/><br/>
+      <b>Git</b><br/><sub>Version Control</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/github/8B949E" width="52" height="52" alt="GitHub" /><br/><br/>
+      <b>GitHub</b><br/><sub>Collaboration</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="52" height="52" alt="Docker" /><br/><br/>
+      <b>Docker</b><br/><sub>Containers</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="52" height="52" alt="Photoshop" /><br/><br/>
+      <b>Photoshop</b><br/><sub>Design</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:58A6FF,100:0F2027&height=3&section=header" width="60%" />
+
+<br/>
+
+### 🔥 Core Skills
+
+![Kotlin](https://img.shields.io/badge/Kotlin-Advanced-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Advanced-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Advanced-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</div>
 
 ---
 
