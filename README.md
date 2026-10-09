@@ -115,7 +115,7 @@ Hi, I'm **Soheil Mohajer** 👋 — Computer Engineering student from Mashhad, w
   </tr>
   <tr>
     <td align="center"><a href="mailto:soheil.mohajer.ai@gmail.com"><b>Email</b></a></td>
-    <td align="center"><a href="https://linkedin.com/in/soheil-mohajer"><b>LinkedIn</b></a></td>
+    <td align="center"><a href="www.linkedin.com/in/soheil-mohajer-1a2944415"><b>LinkedIn</b></a></td>
     <td align="center"><a href="https://t.me/soheil_mohajer"><b>Telegram</b></a></td>
   </tr>
 </table>
