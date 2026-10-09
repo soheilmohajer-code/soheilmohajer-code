@@ -1,9 +1,9 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Soheil%20Mohajer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Android%20%26%20AI%20Agent%20Developer&descSize=22&descAlignY=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Soheil%20Mohajer&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%26%20AI%20Agent%20Developer&descSize=20&descAlignY=60&descColor=58A6FF)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Android+%26+AI+Agent+Developer+%F0%9F%A4%96;Kotlin+%7C+Jetpack+Compose+%7C+Flutter+%7C+Unity+%F0%9F%8E%AE;Computer+Engineering+Student+%F0%9F%8E%93;Co-Founder+at+Zenithra+%F0%9F%9A%80;Apps+%26+Games+Published+on+Cafe+Bazaar+%F0%9F%93%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Android+%26+AI+Agent+Developer+%F0%9F%A4%96;Kotlin+%7C+Compose+%7C+Flutter+%7C+Unity+%F0%9F%8E%AE;Computer+Engineering+Student+%F0%9F%8E%93;Co-Founder+at+Zenithra+%F0%9F%9A%80;Apps+%26+Games+Published+on+Cafe+Bazaar+%F0%9F%93%B1" alt="Typing SVG" />
 
 <br/>
 
@@ -46,146 +46,57 @@ I build Android apps and games, and AI agents with **n8n** and **Python** — fr
 
 ### 📱 Mobile & Game
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="48" height="48" alt="Kotlin" /><br/><br/>
-      <b>Kotlin</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="48" height="48" alt="Java" /><br/><br/>
-      <b>Java</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/jetpackcompose/4285F4" width="48" height="48" alt="Jetpack Compose" /><br/><br/>
-      <b>Jetpack Compose</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/android/3DDC84" width="48" height="48" alt="XML" /><br/><br/>
-      <b>XML Layouts</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/flutter/54C5F8" width="48" height="48" alt="Flutter" /><br/><br/>
-      <b>Flutter</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/dart/00B4AB" width="48" height="48" alt="Dart" /><br/><br/>
-      <b>Dart</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/unity/BBBBBB" width="48" height="48" alt="Unity" /><br/><br/>
-      <b>Unity (C#)</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-161B22?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-161B22?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/XML-161B22?style=for-the-badge&logo=xml&logoColor=4A9EE0" alt="XML" />
+  <img src="https://img.shields.io/badge/Flutter-161B22?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-161B22?style=for-the-badge&logo=dart&logoColor=00B4AB" alt="Dart" />
+  <img src="https://img.shields.io/badge/Unity%20%28C%23%29-161B22?style=for-the-badge&logo=unity&logoColor=FFFFFF" alt="Unity (C#)" />
+</p>
 
 ### 🌐 Web & Backend
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React" /><br/><br/>
-      <b>React</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/nextdotjs/BBBBBB" width="48" height="48" alt="Next.js" /><br/><br/>
-      <b>Next.js</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="48" height="48" alt="Node.js" /><br/><br/>
-      <b>Node.js</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/express/BBBBBB" width="48" height="48" alt="Express" /><br/><br/>
-      <b>Express</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/html5/E34F26" width="48" height="48" alt="HTML/CSS" /><br/><br/>
-      <b>HTML / CSS</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-161B22?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
+  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-161B22?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML / CSS" />
+  <img src="https://img.shields.io/badge/REST%20APIs-161B22?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="REST APIs" />
+</p>
 
 ### 🗄 Databases
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/sqlite/0F80CC" width="48" height="48" alt="SQLite" /><br/><br/>
-      <b>SQLite</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="48" height="48" alt="Firebase" /><br/><br/>
-      <b>Firebase</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" height="48" alt="MongoDB" /><br/><br/>
-      <b>MongoDB</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" alt="PostgreSQL" /><br/><br/>
-      <b>PostgreSQL</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/mysql/5B9BD5" width="48" height="48" alt="MySQL" /><br/><br/>
-      <b>MySQL</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLite-161B22?style=for-the-badge&logo=sqlite&logoColor=0F80CC" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=5B9BD5" alt="MySQL" />
+</p>
 
 ### 🤖 AI & Automation
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" /><br/><br/>
-      <b>n8n</b><br/><sub>Workflows</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/python/4B8BBE" width="48" height="48" alt="Python" /><br/><br/>
-      <b>Python</b><br/><sub>Agents & Scripts</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/openai/BBBBBB" width="48" height="48" alt="LLM APIs" /><br/><br/>
-      <b>LLM APIs</b><br/><sub>Integration</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-161B22?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
+  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/AI%20Agents-161B22?style=for-the-badge&logo=probot&logoColor=58A6FF" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/LLM%20API%20Integration-161B22?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="LLM API Integration" />
+</p>
 
 ### 🧰 Languages & Tools
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/c/659AD2" width="48" height="48" alt="C" /><br/><br/>
-      <b>C</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/cplusplus/659AD2" width="48" height="48" alt="C++" /><br/><br/>
-      <b>C++</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="48" height="48" alt="Android Studio" /><br/><br/>
-      <b>Android Studio</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/gradle/1BA8CB" width="48" height="48" alt="Gradle" /><br/><br/>
-      <b>Gradle</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" /><br/><br/>
-      <b>Git</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker" /><br/><br/>
-      <b>Docker</b>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="48" height="48" alt="Photoshop" /><br/><br/>
-      <b>Photoshop</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=659AD2" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=cplusplus&logoColor=659AD2" alt="C++" />
+  <img src="https://img.shields.io/badge/Android%20Studio-161B22?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Gradle-161B22?style=for-the-badge&logo=gradle&logoColor=1BA8CB" alt="Gradle" />
+  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Photoshop-161B22?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop" />
+</p>
 
 <br/>
 
