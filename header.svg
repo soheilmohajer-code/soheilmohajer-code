@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Soheil Mohajer - Android and AI Agent Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F2027"/>
+      <stop offset="0.5" stop-color="#203A43"/>
+      <stop offset="1" stop-color="#2C5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .name { font: 700 58px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; animation: fade 1.2s ease-out both; }
+      .sub  { font: 600 24px 'Courier New', Consolas, monospace; fill: #58A6FF; letter-spacing: 3px; animation: fade 1.2s 0.5s ease-out both; }
+      .line { animation: fade 1.2s 0.9s ease-out both; }
+      @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" rx="14" fill="url(#bg)"/>
+
+  <circle cx="1080" cy="30" r="150" fill="#58A6FF" opacity="0.06"/>
+  <circle cx="1140" cy="220" r="90" fill="#58A6FF" opacity="0.05"/>
+  <circle cx="90" cy="230" r="130" fill="#58A6FF" opacity="0.05"/>
+  <circle cx="160" cy="30" r="60" fill="#ffffff" opacity="0.03"/>
+
+  <text class="name" x="600" y="125" text-anchor="middle">Soheil Mohajer</text>
+  <text class="sub" x="600" y="172" text-anchor="middle">ANDROID &amp; AI AGENT DEVELOPER</text>
+  <rect class="line" x="420" y="204" width="360" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
