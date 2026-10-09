@@ -6,27 +6,46 @@
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=soheil%40github%3A~%24+whoami)](https://git.io/typing-svg)
+Hi! I'm Soheil Mohajer, a passionate Android Developer and Computer Engineering student.  
+I'm one of the co-founders of Zenithra, where we focus on building modern, scalable, and high-quality software products.
 
-<table>
-<tr>
-<td valign="top">
+---
 
-<pre>
-⢸⢰⢱⢸⢰⢱⠸⡰⡱⡸⡰⡱⡸⡰
-⢸⢸⠰⠑⢁⠁⠁⠄⠂⠄⢑⠘⢔⢕
-⢸⠨⠀⠠⢀⢀⡁⡀⡁⠀⠀⠀⠀⢣
-⢜⠀⢀⡮⣾⣿⣿⣿⣾⡿⣄⠅⠀⠌
-⡢⠀⡨⡿⠿⡿⣿⣿⠿⠿⠻⢇⠀⠨
-⢸⣀⣓⠲⣑⢠⡊⣍⠠⣂⢂⢪⢂⣘
-⢸⣞⣯⣿⢷⣟⣾⣿⣜⢾⢟⣯⢗⡕
-⡘⡿⢽⣿⡿⠻⠘⢅⠪⢟⢿⡳⡝⡇
-⢸⠸⡸⢽⡢⡮⠯⠳⢬⢤⢹⠱⡑⡌
-⢸⢘⢔⡅⠈⠘⠅⠂⠅⠁⢈⢼⢐⠅
-⢸⠨⠂⢽⣳⢤⣀⡀⢄⢔⢜⣵⠀⢑
-⠀⠁⠀⣻⣽⣳⣗⡽⡼⢼⢕⡧⠁
-⠀⠀⠁⠐⣿⣾⣺⢽⣺⣽⣽⠊
-⠀⠐⠈⠀⠹⣿⣿⣿⣿⡿⠋⠀⠈
-⠀
+## 🚀 What I Do
+
+- Android Development
+- Building real-world applications
+- Clean Architecture
+- Product development at Zenithra
+
+---
+
+## 🛠 Tech Stack
+
+Languages: Java, Kotlin, Python, C++  , Xml
+Android: Jetpack Compose  
+Design: Photoshop
+
+---
+
+## 📊 GitHub Stats
+## 🛠 Tech Stack
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F05033?style=for-the-badge&logo=Java&logoColor=red)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=soheilmohajer-code&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheilmohajer-code&layout=compact&theme=tokyonight&hide_border=true" />
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer)
