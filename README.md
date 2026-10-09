@@ -23,22 +23,28 @@ Hi, I'm **Soheil Mohajer** 👋 — Computer Engineering student from Mashhad, w
 - 🤝 Open to work in **Android, Unity and AI-agent development**
 
 ## 🛠 Skills
+<div align="center">
 
-<p align="center">
-  <sub><b>Mobile & Game</b></sub><br />
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,dart,unity&theme=dark" />
-  <br /><br />
-  <sub><b>Web & Backend</b></sub><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css&theme=dark" />
-  <br /><br />
-  <sub><b>Data & AI</b></sub><br />
-  <img src="https://skillicons.dev/icons?i=sqlite,firebase,mongodb,postgres,mysql,python&theme=dark" />
-  <br /><br />
-  <sub><b>Tools</b></sub><br />
-  <img src="https://skillicons.dev/icons?i=docker,git,c,cpp,ps,gradle&theme=dark" />
-</p>
-## 📊 Stats
+**Mobile & Game**
+<br />
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,dart,unity&theme=dark" />
+<br />
 
+**Web & Backend**
+<br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css&theme=dark" />
+<br />
+
+**Data & AI**
+<br />
+<img src="https://skillicons.dev/icons?i=sqlite,firebase,mongodb,postgres,mysql,python&theme=dark" />
+<br />
+
+**Tools**
+<br />
+<img src="https://skillicons.dev/icons?i=docker,git,c,cpp,ps,gradle&theme=dark" />
+
+</div>
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=soheilmohajer-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
