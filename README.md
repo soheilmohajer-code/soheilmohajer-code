@@ -101,9 +101,13 @@ Hi, I'm **Soheil Mohajer** 👋 — Computer Engineering student from Mashhad, w
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soheil.mohajer.ai@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soheil-mohajer)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soheil_mohajer)
+<table>
+  <tr>
+    <td align="center" width="200"><a href="mailto:soheil.mohajer.ai@gmail.com">📧 <b>Email</b></a></td>
+    <td align="center" width="200"><a href="https://linkedin.com/in/soheil-mohajer">💼 <b>LinkedIn</b></a></td>
+    <td align="center" width="200"><a href="https://t.me/soheil_mohajer">✈️ <b>Telegram</b></a></td>
+  </tr>
+</table>
 
 ⭐ *If you like my work, drop a star on my repos!* ⭐
 
