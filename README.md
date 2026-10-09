@@ -107,7 +107,10 @@ Hi, I'm **Soheil Mohajer** 👋 — Computer Engineering student from Mashhad, w
       <a href="mailto:soheil.mohajer.ai@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="56" alt="Email" /></a>
     </td>
     <td align="center" valign="middle" width="150" height="64">
-      <a href="https://linkedin.com/in/soheil-mohajer"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="56" alt="LinkedIn" /></a>
+     
+<a href="https://www.linkedin.com/in/soheil-mohajer-1a2944415" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="56" alt="LinkedIn" />
+</a>
     </td>
     <td align="center" valign="middle" width="150" height="64">
       <a href="https://t.me/soheil_mohajer"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="44" alt="Telegram" /></a>
