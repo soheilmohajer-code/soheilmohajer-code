@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Soheil%20Mohajer&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%26%20AI%20Agent%20Developer&descSize=20&descAlignY=62&descColor=58A6FF)
+![header](header.svg)
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Android+%26+AI+Agent+Developer;Co-Founder+at+Zenithra;Apps+%26+Games+on+Cafe+Bazaar" alt="Typing SVG" />
@@ -109,4 +109,4 @@ Hi, I'm **Soheil Mohajer** 👋 — Computer Engineering student from Mashhad, w
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer)
+![footer](footer.svg)
